@@ -23,3 +23,17 @@ Order Book Creation (Order Matching Mechanism)
 
 Using in-build python library such as SortedContainers and the concept of sets, this order matching mechanism processed 93776 orders per second with time per order of 10.66 orders per micro-seconds. 
 The main mechanism used for matching was FIFO (First In and First Out). This prototype order matching Framework provided an hindsight experience of storing and handling order-by-order tick data.
+
+
+Price Point (Valuation based) research on NBFC Stock listed on both BSE and NSE
+
+Under this project 40 NBFC stocks with multiple company f inancial variables where considered for the purpose of company analysis on a financial health factor and 
+discovering a price point for each company using a empirical formula which considers both microeconomic and macroeconomic indicators. 
+The database to support the research where collected using secondary data sources.
+
+
+Point (Valuation based) research on Private Banking Stocks listed on both BSE and NSE
+
+Under this project 23 private banking stocks with multiple company financial variables where considered for the purpose of creating new derived variables such as adjusted return to shareholder and flexibility. 
+Then a empirical formula was used to estimate a price point for each stock of a private bank.
+
