@@ -18,3 +18,8 @@ For this project 96 different stocks from NYSE where used to create a optimized 
 using Multi-variate normalized distribution (Monte-Carlo Simulation) which accounts for Transactional Cost (MILP) , 
 Market Impact Cost (optimized using Quadratic Power Cones) and threshold CVaR risk for different delta values (risk coefficient) 
 in order to Maximize Utility function (Objective).
+
+Order Book Creation (Order Matching Mechanism)
+
+Using in-build python library such as SortedContainers and the concept of sets, this order matching mechanism processed 93776 orders per second with time per order of 10.66 orders per micro-seconds. 
+The main mechanism used for matching was FIFO (First In and First Out). This prototype order matching Framework provided an hindsight experience of storing and handling order-by-order tick data.
