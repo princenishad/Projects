@@ -37,3 +37,6 @@ Point (Valuation based) research on Private Banking Stocks listed on both BSE an
 Under this project 23 private banking stocks with multiple company financial variables where considered for the purpose of creating new derived variables such as adjusted return to shareholder and flexibility. 
 Then a empirical formula was used to estimate a price point for each stock of a private bank.
 
+Regression with a Crab Age Dataset (Kaggle Based Hackathon)
+
+In this competition given 10 distinct feature of a crab, we had to estimate the age for each vector of features. Weighted Least Squares (WLS) econometric model was used to generate a linear regression equation which minimised error residual while handling a data structured problem of heteroscedasticity. 
