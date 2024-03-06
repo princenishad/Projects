@@ -1,7 +1,7 @@
 Credit Risk (Default Probabilty Modeling)
 
 With more than 272 variables right from categorical to binary (customer level segmentation has been used to create another 50 categorical, data manipulated and dummy variables)
-Using Light GBM as a singleton ensembling model for model creation and implementation we created Stratified K = 5 fold samples of our train dataset.
+Using Light GBM as a singleton ensembling model for model creation and for the purpose of implementation we created Stratified K = 5 fold samples of our train dataset.
 
 International Trade Research Paper (Analysing Bilateral Trade Relation between India and China)
 
