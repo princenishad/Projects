@@ -40,3 +40,21 @@ Then a empirical formula was used to estimate a price point for each stock of a 
 Regression with a Crab Age Dataset (Kaggle Based Hackathon)
 
 In this competition given 10 distinct feature of a crab, we had to estimate the age for each vector of features. Weighted Least Squares (WLS) econometric model was used to generate a linear regression equation which minimised error residual while handling a data structured problem of heteroscedasticity. 
+
+
+Mars Spectrometry 2: Gas Chromatography Multi-Label Classification (Driven Data based Hackathon)
+
+In this challenge goal was to detect the presence of certain families of chemical compounds in geological material samples 
+using gas chromatography-mass spectrometry (GCMS) data collected for Mars exploration missions.
+
+Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines Binary Classification Model (Driven Data based Hackathon)
+
+In this challenge the goal was to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. 
+Specifically, predicting two probabilities: one for h1n1_vaccine and one for seasonal_vaccine.
+
+Intra-Day Return Multi-Classification Model (Trading Directional Signal)
+
+Under this project NSE's 13 Housing NBFC stocks on daily data was analysed following which feature engineering included 
+creation of multiple new derived variables based on Joint Probability Density function and 
+density clustering Using UMAP (Uniform Manifold Approximate Projection) to predict whether the stock would be Bullish , 
+Bearish or Consoliding during the day. The model used was the XGB Classifier.
